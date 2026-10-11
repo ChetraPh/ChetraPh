@@ -27,14 +27,16 @@
 
 Hello! I'm **Phen Chetra**, an Information Technology student at **Build Bright University, Cambodia**.
 
-I'm interested in technical support, computer hardware and software troubleshooting, database management, and web application development. I enjoy solving technical problems, learning new technologies, and building practical solutions.
+I'm interested in technical support, computer hardware and software troubleshooting, database management, web application development, and machine learning. I enjoy solving technical problems, learning new technologies, and building practical solutions.
 
 My primary career goal is to become an **IT Support Specialist**, while continuing to improve my backend and full-stack development skills.
 
 - 🖥️ Hardware and software troubleshooting
 - 🔧 Backend development with Laravel and ASP.NET
 - 🌐 Web application development with HTML, CSS, and JavaScript
-- 🗄️ Database management with MySQL and SQL Server
+- 🗄️ Database management with MySQL, PostgreSQL, Oracle, and SQL Server
+- 💻 Programming with C, C++, C#, and JavaScript
+- 🤖 Exploring Anaconda, data science, and machine learning
 - 🌐 Network fundamentals and technical support
 - 🔐 Interest in cybersecurity and web application security
 - 📚 Continuous learning and professional development
@@ -63,7 +65,17 @@ My primary career goal is to become an **IT Support Specialist**, while continui
     </td>
     <td width="50%">
       <h3>🗄️ Database Management</h3>
-      <p>SQL queries, relational database design, data validation, and structured information management.</p>
+      <p>SQL queries, relational database design, data validation, and structured information management across multiple database systems.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🤖 Machine Learning</h3>
+      <p>Exploring machine learning concepts and tools for data analysis and computer vision projects.</p>
+    </td>
+    <td width="50%">
+      <h3>🌐 Networking & Security</h3>
+      <p>Learning network fundamentals, troubleshooting, cybersecurity, and web application security.</p>
     </td>
   </tr>
 </table>
@@ -72,9 +84,11 @@ My primary career goal is to become an **IT Support Specialist**, while continui
 
 ## 🛠️ Technical Skills
 
-### 💻 Languages
+### 💻 Programming Languages
 
 <p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -89,10 +103,20 @@ My primary career goal is to become an **IT Support Specialist**, while continui
   <img src="https://img.shields.io/badge/REST%20API-0B132B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
 </p>
 
+### 🤖 Data Science & Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-6A5ACD?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-0B132B?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision" />
+</p>
+
 ### 🗄️ Databases
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Database" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
 </p>
 
@@ -103,6 +127,7 @@ My primary career goal is to become an **IT Support Specialist**, while continui
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda Platform" />
 </p>
 
 ### 🖥️ IT Support & Productivity
@@ -235,6 +260,7 @@ A personal website showcasing my technical skills, professional experience, and 
 - 🌐 Strengthen my networking fundamentals
 - ⚙️ Improve my Laravel and ASP.NET development skills
 - 🗄️ Deepen my SQL and database management knowledge
+- 🤖 Continue exploring machine learning and computer vision
 - 🔐 Continue learning about web application security
 - 🚀 Build practical projects and expand my portfolio
 
