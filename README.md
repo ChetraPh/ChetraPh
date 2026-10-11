@@ -3,42 +3,43 @@
 ### 💻 IT Support Specialist | Backend Developer | Full-Stack Developer
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:1C3FAA,100:00CFFF&height=220&section=header&text=PHEN%20CHETRA&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT%20Support%20%7C%20Backend%20%7C%20Full-Stack&descAlignY=55&descSize=18" width="100%" alt="PHEN CHETRA Banner" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChetraPh&label=PROFILE%20VIEWS&color=00CFFF&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ChetraPh?label=Followers&style=for-the-badge&color=1C3FAA" alt="GitHub Followers" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:1C3FAA,100:00CFFF&height=220&section=header&text=PHEN%20CHETRA&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT%20Support%20%7C%20Backend%20%7C%20Full-Stack&descAlignY=58&descSize=17" width="100%" alt="Phen Chetra Banner" />
 </p>
 
 <p align="center">
   <a href="https://chetraph.github.io/phen-chetra-portfolio/">
-    <img src="https://img.shields.io/badge/🌐_My_Portfolio-Visit_Now-00CFFF?style=for-the-badge" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-00CFFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Website" />
   </a>
   <a href="mailto:chetraphen00@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-Contact_Me-1C3FAA?style=for-the-badge" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-Contact%20Me-1C3FAA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-IT%20Support-00CFFF?style=flat-square" alt="Career Focus" />
+  <img src="https://img.shields.io/badge/Location-Phnom%20Penh%2C%20Cambodia-1C3FAA?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/Status-IT%20Student-512BD4?style=flat-square" alt="Student" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-👋 Hello! I'm **Phen Chetra**, an Information Technology student at **Build Bright University, Cambodia**.
+Hello! I'm **Phen Chetra**, an Information Technology student at **Build Bright University, Cambodia**.
 
-I'm passionate about solving technical problems, maintaining computer systems, managing databases, and building useful web applications. I enjoy learning new technologies and turning ideas into practical solutions.
+I'm interested in technical support, computer hardware and software troubleshooting, database management, and web application development. I enjoy solving technical problems, learning new technologies, and building practical solutions.
 
-My main career interest is **IT Support Specialist**, while continuing to develop my skills in backend and full-stack development.
+My primary career goal is to become an **IT Support Specialist**, while continuing to improve my backend and full-stack development skills.
 
-- 🖥️ IT Support, Hardware & Software Troubleshooting
-- 🔧 Backend Development with Laravel and ASP.NET
-- 🌐 Full-Stack Web Application Development
-- 🗄️ Database Management with MySQL and SQL Server
-- 🔐 Interest in Cybersecurity and Network Fundamentals
-- 📚 Always learning and improving my technical skills
-- 🎯 Goal: Build reliable systems and solve real-world problems
+- 🖥️ Hardware and software troubleshooting
+- 🔧 Backend development with Laravel and ASP.NET
+- 🌐 Web application development with HTML, CSS, and JavaScript
+- 🗄️ Database management with MySQL and SQL Server
+- 🌐 Network fundamentals and technical support
+- 🔐 Interest in cybersecurity and web application security
+- 📚 Continuous learning and professional development
 
-> "Keep learning, keep building, and never stop improving."
+> 💡 My goal is to use technology to solve problems and build reliable solutions.
 
 ---
 
@@ -48,21 +49,21 @@ My main career interest is **IT Support Specialist**, while continuing to develo
   <tr>
     <td width="50%">
       <h3>🖥️ IT Support</h3>
-      <p>Hardware and software troubleshooting, system configuration, maintenance, IT inventory, and technical documentation.</p>
+      <p>Hardware and software troubleshooting, system configuration, routine maintenance, IT inventory, and technical documentation.</p>
     </td>
     <td width="50%">
       <h3>⚙️ Backend Development</h3>
-      <p>Building backend functionality, CRUD operations, database integration, validation, and application logic with Laravel and ASP.NET.</p>
+      <p>Backend application logic, CRUD operations, database integration, data validation, and application functionality using Laravel and ASP.NET.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>🌐 Full-Stack Development</h3>
-      <p>Developing web interfaces and connecting them to backend services and databases.</p>
+      <p>Building web applications by connecting user interfaces, backend services, and relational databases.</p>
     </td>
     <td width="50%">
       <h3>🗄️ Database Management</h3>
-      <p>Working with relational databases, SQL queries, data validation, and structured data management.</p>
+      <p>SQL queries, relational database design, data validation, and structured information management.</p>
     </td>
   </tr>
 </table>
@@ -71,7 +72,7 @@ My main career interest is **IT Support Specialist**, while continuing to develo
 
 ## 🛠️ Technical Skills
 
-### 💻 Programming Languages
+### 💻 Languages
 
 <p>
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp" />
@@ -80,7 +81,7 @@ My main career interest is **IT Support Specialist**, while continuing to develo
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### ⚙️ Frameworks & Development
+### ⚙️ Frameworks & APIs
 
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
@@ -92,7 +93,7 @@ My main career interest is **IT Support Specialist**, while continuing to develo
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
 </p>
 
 ### 🔧 Tools & Platforms
@@ -100,7 +101,7 @@ My main career interest is **IT Support Specialist**, while continuing to develo
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
 </p>
 
@@ -109,7 +110,7 @@ My main career interest is **IT Support Specialist**, while continuing to develo
 - PC and laptop hardware troubleshooting
 - Software installation, configuration, and maintenance
 - Network fundamentals and troubleshooting
-- IT inventory management and documentation
+- IT inventory management and technical documentation
 - Data entry, cleaning, and verification
 - Microsoft Office and Google Workspace
 
@@ -122,7 +123,7 @@ My main career interest is **IT Support Specialist**, while continuing to develo
 
 - Maintained and updated IT system records.
 - Assisted with hardware and software troubleshooting.
-- Managed technical records and verified information accuracy.
+- Organized technical records and verified information accuracy.
 
 ### 📦 Product Specialist
 **AWS Cambodia LTD**
@@ -179,15 +180,15 @@ A project focused on recognizing molten iron slag and predicting desulfurizer re
 - Database integration
 - User management
 - Form validation and data handling
-- Responsive web interfaces
+- Web application development
 
 ### 4. 👨‍💻 Personal Portfolio Website
 
 **Technologies:** HTML, CSS, JavaScript, GitHub Pages
 
-A personal website showcasing my technical skills, projects, professional experience, and contact information.
+A personal website showcasing my technical skills, professional experience, and projects.
 
-🔗 **Live Website:** [View My Portfolio](https://chetraph.github.io/phen-chetra-portfolio/)
+🔗 **Live Website:** [Visit My Portfolio](https://chetraph.github.io/phen-chetra-portfolio/)
 
 ---
 
@@ -228,21 +229,11 @@ A personal website showcasing my technical skills, projects, professional experi
 
 ---
 
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
-</p>
-
-*Note: The contribution snake image requires a separate GitHub Actions workflow to generate. If it does not appear, configure the workflow in your profile repository.*
-
----
-
 ## 🎯 Current Goals
 
 - 📚 Improve my IT support and troubleshooting skills
 - 🌐 Strengthen my networking fundamentals
-- ⚙️ Improve Laravel and ASP.NET development
+- ⚙️ Improve my Laravel and ASP.NET development skills
 - 🗄️ Deepen my SQL and database management knowledge
 - 🔐 Continue learning about web application security
 - 🚀 Build practical projects and expand my portfolio
@@ -255,13 +246,13 @@ I'm interested in opportunities related to IT Support, Technical Support, Backen
 
 <p align="center">
   <a href="mailto:chetraphen00@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ChetraPh-00CFFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-00CFFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://chetraph.github.io/phen-chetra-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-1C3FAA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-1C3FAA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/ChetraPh">
-    <img src="https://img.shields.io/badge/GitHub-ChetraPh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-My%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
