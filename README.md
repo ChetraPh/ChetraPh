@@ -254,6 +254,18 @@ A personal website showcasing my technical skills, professional experience, and 
 
 ---
 
+## 📈 GitHub Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChetraPh&bg_color=0b132b&color=00cfff&line=1c3faa&point=00cfff&area=true&hide_border=true&custom_title=My%20GitHub%20Contribution%20Graph" alt="GitHub Contribution Activity Graph" width="100%" />
+</p>
+
+<p align="center">
+  <i>Every contribution is a step toward becoming a better developer.</i>
+</p>
+
+---
+
 ## 🎯 Current Goals
 
 - 📚 Improve my IT support and troubleshooting skills
